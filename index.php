@@ -10,9 +10,6 @@
     <META NAME="Author" CONTENT="[]"/>
     <META name="Description" content="Somos una compañía dedicados a ofrecer construcción de casas, remodelación, contrucción de carreteras, edificios y ampliaciones."/>
     <META NAME="Keywords" CONTENT="construcción , construcción COYP , COYP , contrucción de casas , ampliaciones de casa , ingenieria civil , productos de construcción, levantamientos, desarrollo de proyectos de construcción"/>
-    <!-- <link rel="stylesheet" href="css/iconos.min.css"> -->
-    <link rel="stylesheet" href="css/fontawesome-all.css">
-    <link rel="stylesheet" href="css/fontawesome-all.min.css">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/estilos.css">
     <!-- <link rel="stylesheet" href="css/responsivo.css"> -->
