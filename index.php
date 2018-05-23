@@ -180,6 +180,35 @@
 
 <section class="seccion3" id="CONTACTO" style="padding: 5% 0%;">
 
+  <div class="container-fluid">
+    <h2 class="section-title  h1">CONTACTO</h2>
+ <div class="row">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11880.492291371422!2d12.4922309!3d41.8902102!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x28f1c82e908503c4!2sColosseo!5e0!3m2!1sit!2sit!4v1524815927977" width="100%" height="320" frameborder="0" style="border:0" allowfullscreen></iframe>
+ </div>
+  <div class="row text-center">
+    <div class=" box1 col-md-3">
+        <a class="cuadros" href="tel:+123456789"><i class="fas fa-phone fa-3x"></i>
+        <h3 class="d-none d-lg-block d-xl-block">Phone</h3>
+        <p class="d-none d-lg-block d-xl-block">+123456789</p></a>
+      </div>
+      <div class=" box2 col-md-3">
+        <a class="cuadros href=""><i class="fas fa-home fa-3x"></i>
+        <h3 class="d-none d-lg-block d-xl-block">Address</h3>
+        <p class="d-none d-lg-block d-xl-block">Piazza del Colosseo, 1, 00184 Roma RM</p></a>
+      </div>
+      <div class=" box3 col-md-3">
+        <a class="cuadros href="mailto:test@test.com"><i class="fas fa-envelope fa-3x"></i>
+        <h3 class="d-none d-lg-block d-xl-block">E-mail</h3>
+        <p class="d-none d-lg-block d-xl-block">test@test.com</p></a>
+      </div>
+      <div class=" box3 col-md-3">
+        <a class="cuadros href="mailto:test@test.com"><i class="fas fa-envelope fa-3x"></i>
+        <h3 class="d-none d-lg-block d-xl-block">E-mail</h3>
+        <p class="d-none d-lg-block d-xl-block">test@test.com</p></a>
+      </div>
+  </div>
+</div>
+
 </section>
 
 

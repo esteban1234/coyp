@@ -226,3 +226,10 @@ section .section-title{
 
 /*--------------------contacto-----------------*/
 
+a.cuadros {color: #000;}
+
+a:link{text-decoration:none;}
+
+.box1{background:  #808b96 ; padding: 1% 0%}
+.box2{background: #707b7c;padding: 1% 0%}
+.box3{background: #797d7f;padding: 1% 0%}
