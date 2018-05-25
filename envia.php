@@ -22,21 +22,21 @@ $mail->From = $correo;
 $mail->FromName = $nombre;
 
 //To address and name
-$mail->addAddress("info@votre.com.mx");
+$mail->addAddress("info@servicioscorporativoscoyp.com");
 
 
 
 $mail->isHTML(true);
 
-$mail->Subject = "Cotización VOTRE";
+$mail->Subject = "Cotización CO Y P";
 $mail->Body = "
               <!DOCTYPE html>
                 <html>
                 <head>
-                <title>VOTRE</title>
+                <title>CO Y P</title>
                 </head>
                 <body  style='border:.5px solid rgba('0,0,0,0.8');background:#fff'>                
-                <h1 style='text-align:center;  font-weight: bold'> VOTRE</h1>
+                <h1 style='text-align:center;  font-weight: bold'> CO Y P</h1>
                 <b>Telefono: </b>$telefono<br/>
                 <div style='color:#747474; padding:20px 10px; text-align: justify'>$comentario <div><br/>
                 </body>

@@ -7,7 +7,7 @@
     <title>SERVICIOS CORPORATIVOS CO Y P </title>
    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"> 
     <META NAME="Title" content="SERVICIOS CORPORATIVOS CO Y P SA DE CV">
-    <META NAME="Author" CONTENT="[]"/>
+    <META NAME="Author" CONTENT="[http://servicioscorporativoscoyp.com/]"/>
     <META name="Description" content="Somos una compañía dedicados a ofrecer construcción de casas, remodelación, contrucción de carreteras, edificios y ampliaciones."/>
     <META NAME="Keywords" CONTENT="construcción , construcción COYP , COYP , contrucción de casas , ampliaciones de casa , ingenieria civil , productos de construcción, levantamientos, desarrollo de proyectos de construcción"/>
     <link rel="stylesheet" href="css/bootstrap.css">
@@ -178,7 +178,7 @@
 </section>
 
 
-<section class="seccion3" id="CONTACTO" style="padding: 5% 0%;">
+<section class="seccion3" id="CONTACTO" style="padding: 5% 0% 0% 0%;">
 
   <div class="container-fluid">
     <h2 class="section-title  h1">CONTACTO</h2>
@@ -188,26 +188,63 @@
   <div class="row text-center">
     <div class=" box1 col-md-3">
         <a class="cuadros" href="tel:+123456789"><i class="fas fa-phone fa-3x"></i>
-        <h3 class="d-none d-lg-block d-xl-block">Phone</h3>
-        <p class="d-none d-lg-block d-xl-block">+123456789</p></a>
+        <h3 class="d-none d-lg-block d-xl-block">Teléfono</h3>
+        <p class="d-none d-lg-block d-xl-block">PENDIENTE</p></a>
       </div>
       <div class=" box2 col-md-3">
         <a class="cuadros href=""><i class="fas fa-home fa-3x"></i>
-        <h3 class="d-none d-lg-block d-xl-block">Address</h3>
-        <p class="d-none d-lg-block d-xl-block">Piazza del Colosseo, 1, 00184 Roma RM</p></a>
+        <h3 class="d-none d-lg-block d-xl-block">Dirección</h3>
+        <p class="d-none d-lg-block d-xl-block">C. Gardenias #444 por C. Magnolia y C. Girasol, Col. El Vergel, Tuxtla Gutiérrez, Chiapas, México. CP. 29044</p></a>
       </div>
       <div class=" box3 col-md-3">
         <a class="cuadros href="mailto:test@test.com"><i class="fas fa-envelope fa-3x"></i>
-        <h3 class="d-none d-lg-block d-xl-block">E-mail</h3>
-        <p class="d-none d-lg-block d-xl-block">test@test.com</p></a>
+        <h3 class="d-none d-lg-block d-xl-block">Correo</h3>
+        <p class="d-none d-lg-block d-xl-block">info@servicioscorporativoscoyp.com</p></a>
       </div>
-      <div class=" box3 col-md-3">
-        <a class="cuadros href="mailto:test@test.com"><i class="fas fa-envelope fa-3x"></i>
-        <h3 class="d-none d-lg-block d-xl-block">E-mail</h3>
-        <p class="d-none d-lg-block d-xl-block">test@test.com</p></a>
+      <div class=" box4 col-md-3">
+        <a class="cuadros href="mailto:test@test.com"><i class="fas fa-clock fa-3x"></i>
+        <h3 class="d-none d-lg-block d-xl-block">Horario</h3>
+        <p class="d-none d-lg-block d-xl-block">Lunes a Viernes de 9am a 6pm</p></a>
       </div>
   </div>
 </div>
+
+<section id="contact">
+      <div class="section-content">
+        <h1 class="section-header"> Formulario de contacto</h1>
+        <h3 style="width: 70%; margin: 0 auto;">Gracias por ser su primera opción. Muy pronto estaremos respondiendo su correo. Escribanos cualquier comentario por este medio.</h3>
+      </div>
+      <div class="contact-section">
+      <div class="container">
+        <form>
+          <div class="col-md-6 form-line">
+              <div class="form-group">
+                <label for="exampleInputUsername">Nombre</label>
+                <input type="text" class="form-control" id="" placeholder=" Escribe tu nombre">
+              </div>
+              <div class="form-group">
+                <label for="exampleInputEmail">Correo</label>
+                <input type="email" class="form-control" id="exampleInputEmail" placeholder=" Escribe tu correo">
+              </div>  
+              <div class="form-group">
+                <label for="telephone">Teléfono</label>
+                <input type="tel" class="form-control" id="telephone" placeholder=" Escribe tu teléfono">
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="form-group">
+                <label for ="description"> Comentarios</label>
+                <textarea  class="form-control" id="description" placeholder=" Escribe tus comentarios"></textarea>
+              </div>
+              <div>
+
+                <button type="button" class="btn btn-default submit"><i class="fa fa-paper-plane" aria-hidden="true"></i>  Enviar</button>
+              </div>
+              
+          </div>
+        </form>
+      </div>
+    </section>
 
 </section>
 
