@@ -35,7 +35,7 @@ $mail->Body = "
                 <head>
                 <title>CO Y P</title>
                 </head>
-                <body  style='border:.5px solid rgba('0,0,0,0.8');background:#fff'>                
+                <body  style='border:.5px solid rgba('0,0,0,0.8');background:#fff'>
                 <h1 style='text-align:center;  font-weight: bold'> CO Y P</h1>
                 <b>Telefono: </b>$telefono<br/>
                 <div style='color:#747474; padding:20px 10px; text-align: justify'>$comentario <div><br/>
@@ -45,7 +45,7 @@ $mail->Body = "
 
 if(!$mail->send())
 {
-  
+
   $html = '<div class="alert alert-dismissible alert-danger">
             <button type="button" class="close" data-dismiss="alert">&times;</button>
                 <strong>Error</strong> al enviar los datos.
@@ -54,7 +54,7 @@ if(!$mail->send())
 }
 else
 {
- 
+
  $html = '<div class="alert alert-dismissible alert-success">
             <button type="button" class="close" data-dismiss="alert">&times;</button>
                 <strong>Datos</strong> Enviados Correctamente.
